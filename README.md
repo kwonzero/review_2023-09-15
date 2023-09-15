@@ -96,7 +96,7 @@
 - Tree: Blob이나 subtree의 메타데이터(디렉토리 위치, 속성, 이름 등)
 
 - Commit: 커밋 순간의 스냅샷
-![HEROPY](https://heropy.blog/css/images/logo.png)
+![HEROPY](https://git-scm.com/book/en/v2/images/data-model-1.png)
 
 ---
 
@@ -184,7 +184,7 @@ Project badges(CI/CD, gh stars, ..)
 ---
 
 # .gitignore
-- 특정 파일이나 디렉토리를 추적하지 않도록 명시하기 위한 파일
+- 특정 파일이나 디렉토리를 추적하지 않도록 명시하기 위한 파일  
 [gitignore.io](https://gitignore.io/)
 
 

@@ -96,7 +96,7 @@
 - Tree: Blob이나 subtree의 메타데이터(디렉토리 위치, 속성, 이름 등)
 
 - Commit: 커밋 순간의 스냅샷
-![HEROPY](https://heropy.blog/css/images/logo.png)
+![HEROPY](https://git-scm.com/book/en/v2/images/data-model-1.png)
 
 ---
 
